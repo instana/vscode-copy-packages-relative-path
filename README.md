@@ -11,3 +11,9 @@ easier.
 
 By default the extension binds `ctrl+alt+c` (`cmd+ctrl+c` for MacOS) to the 
 `copy-packages-relative-path.copy` command.
+
+## Contributing
+
+ 1. Clone the repository
+ 2. Open the repository root in VSCode
+ 3. [Read publishing instructions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
