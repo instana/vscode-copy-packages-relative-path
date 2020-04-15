@@ -24,6 +24,7 @@
     "name": "Ben Blackmore",
     "email": "ben@instana.com"
   },
+	"publisher": "instana",
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
